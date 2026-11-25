@@ -131,7 +131,7 @@ USB-C / Micro-USB / 电池三种输入，一块板子出五路电压，每路独
 
 ### 许可证
 
-**CC BY-NC-SA 4.0**：署名（注明作者 YangZiYou https://github.com/supdeme）· 非商业性使用 · 相同方式共享。全文见 [LICENSE](LICENSE)。
+**CC BY-NC-SA 4.0**：署名 注明作者 YangZiYou (https://github.com/supdeme）· 非商业性使用 · 相同方式共享。全文见 [LICENSE](LICENSE)。
 
 ### 免责声明
 
@@ -278,7 +278,7 @@ Values are on the schematic.
 
 ### License
 
-**CC BY-NC-SA 4.0** — attribution (credit YangZiYou https://github.com/supdeme) · non-commercial · share-alike. Full text in [LICENSE](LICENSE).
+**CC BY-NC-SA 4.0** — attribution credit YangZiYou (https://github.com/supdeme) · non-commercial · share-alike. Full text in [LICENSE](LICENSE).
 
 ### Disclaimer
 
